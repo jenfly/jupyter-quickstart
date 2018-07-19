@@ -1,0 +1,7 @@
+name: quickstart
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
