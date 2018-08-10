@@ -1,4 +1,4 @@
-**Under construction! Coming soon in September 2018.**
+### Under construction! Coming soon in September 2018.
 
 # Jupyter Quick Start Tutorial
 
