@@ -8,5 +8,5 @@ This tutorial is intended as a minimal introduction to get you up and running wi
 
 You can try out JupyterLab and work through this tutorial without installing anything on your computer. Click the "launch binder" button below:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jenfly/jupyter-quickstart/master?urlpath=lab/tree/Quickstart.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jenfly/jupyter-quickstart/master?urlpath=lab/tree/quickstart.ipynb)
 
